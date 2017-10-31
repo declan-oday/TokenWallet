@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenWallet", "TokenWallet\TokenWallet.csproj", "{ED1167C5-10A3-447D-A685-DAA030758D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED1167C5-10A3-447D-A685-DAA030758D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1167C5-10A3-447D-A685-DAA030758D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1167C5-10A3-447D-A685-DAA030758D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1167C5-10A3-447D-A685-DAA030758D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0035D91A-1556-4F19-A613-B8EB97C850A6}
+	EndGlobalSection
+EndGlobal
